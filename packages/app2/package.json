@@ -1,0 +1,14 @@
+{
+  "name": "sts-ui",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ric/common": "1.0.0"
+  }
+}
